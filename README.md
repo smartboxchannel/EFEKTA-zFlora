@@ -6,4 +6,4 @@
 
 Описание: http://efektalab.com/zFlora_S
 
-![EFEKTA Smart Air Quality Box](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Smart-Air-Quality-Box/main/Images/box.png)
+![EFEKTA zFlora S](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Smart-Air-Quality-Box/main/Images/box.png) 
