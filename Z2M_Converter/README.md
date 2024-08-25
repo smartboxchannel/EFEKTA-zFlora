@@ -6,5 +6,5 @@
 
 Продажа DIY Устройств - https://t.me/diydevmart
 
-![EFEKTA Smart Air Quality Box](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-Smart-Air-Quality-Box/main/Images/2.png)
+![EFEKTA zFlora S](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora/main/Images/001.png) 
 
