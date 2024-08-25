@@ -13,9 +13,7 @@ Sprut.hub Wiki | Добавление кастомных шаблонов - http
 
 ![EFEKTA zFlora S](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora/main/Images/03.png) 
 
-![EFEKTA zFlora S](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora/main/Images/04.png) 
-
-![EFEKTA zFlora S](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora/main/Images/05.png) 
+![EFEKTA zFlora S](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora/main/Images/05.jpg) 
 
 ![EFEKTA zFlora S](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora/main/Images/10.png) 
 
