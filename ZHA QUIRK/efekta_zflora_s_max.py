@@ -87,6 +87,7 @@ class TimeExt(Time, CustomCluster):
         unit=UnitOfTime.HOURS,
         translation_key="uptime",
         fallback_name="Uptime",
+        divisor=3600,
     )
     
     # ============== CONFIGURATION ==============
